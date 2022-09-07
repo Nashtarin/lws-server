@@ -1,0 +1,58 @@
+{
+  "transactions": [
+    {
+      "name": "Pendrive",
+      "amount": "500",
+      "type": "expense",
+      "id": 3
+    },
+    {
+      "name": "Salary",
+      "type": "income",
+      "amount": 20000,
+      "id": 4
+    },
+    {
+      "name": "upori income",
+      "type": "income",
+      "amount": 20000,
+      "id": 5
+    },
+    {
+      "name": "Salary from TdSuper",
+      "type": "income",
+      "amount": 200000,
+      "id": 6
+    },
+    {
+      "name": "New Dress",
+      "type": "expense",
+      "amount": 5000,
+      "id": 7
+    },
+    {
+      "name": "Project by IBM",
+      "type": "income",
+      "amount": 1000000,
+      "id": 8
+    },
+    {
+      "name": "Iphone Pro Max 13",
+      "type": "expense",
+      "amount": 200000,
+      "id": 9
+    },
+    {
+      "name": "Salary from LA Research",
+      "type": "income",
+      "amount": 50000,
+      "id": 10
+    },
+    {
+      "name": "Burgers",
+      "amount": "2000",
+      "type": "expense",
+      "id": 11
+    }
+  ]
+}
